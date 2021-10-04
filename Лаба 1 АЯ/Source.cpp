@@ -13,7 +13,6 @@ int main()
 	cin >> x2 >> y2;
 	cin >> x3 >> y3;
 
-
 	AB = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
 	BC = sqrt(pow(x3 - x2, 2) + pow(y3 - y2, 2));
 	CA = sqrt(pow(x1 - x3, 2) + pow(y1 - y3, 2));
